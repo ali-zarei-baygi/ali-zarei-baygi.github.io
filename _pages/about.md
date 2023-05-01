@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome to Ali Zarei Baygi Website!"
-excerpt: "About me"
+excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
