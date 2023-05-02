@@ -21,7 +21,7 @@ Education
 
 
 * <img src="/images/sharif_logo.png" alt="SUT" height="100" width="100">
-**M.S. in Enineering, Sharif University of Technology, 2012-2015**
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **M.S. in Enineering, Sharif University of Technology, 2012-2015**
 
   
 
@@ -63,7 +63,7 @@ Projects and Related Work
   * *Georgia Institute of Technology, Atlanta, GA -- Feb 2023 – Apr 2023*
 * **Pseudo Labeling for improving Intent Classification in a Booking ChatBot (a team project)** 
   * *Georgia Institute of Technology, Atlanta, GA -- Oct 2022 – Dec 2022*
-* **Machine Translation using Seq2Seq, and Transformer models for Multi30K dataset (English-German Image Description)** 
+* **Machine Translation using Seq2Seq, and Transformer models for Multi30K dataset** 
   * *Georgia Institute of Technology, Atlanta, GA -- Sep 2022 – Nov 2022*
 * **CNNs Explainability, Bias Determination, and Style Transfer** 
   * *Georgia Institute of Technology, Atlanta, GA -- Sep 2022 – Nov 2022*
