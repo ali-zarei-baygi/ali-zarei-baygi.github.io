@@ -53,19 +53,10 @@ Technical Skills
 Projects and Related Work
 ======
 
-* Artificial Intelligent-based Stock Trader
+* Artificial Intelligent-based Stock Trader [*Georgia Institute of Technology, Atlanta, GA                       Feb 2023 – May 2023*]
 
- *Georgia Institute of Technology, Atlanta, GA                       Feb 2023 – May 2023*
+Agile, Test-Driven Development of a Text Editing Java App [*Georgia Institute of Technology, Atlanta, GA    Mar 2023 – May 2023*] 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
