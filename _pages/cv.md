@@ -28,26 +28,26 @@ Education
 Technical Skills
 ======
 * Programming Languages
-  * Python  \|  Java  \|  C#
+  * **Python  \|  Java  \|  C#**
 
 
 * Data Analytics & ML Libraries
-  * NumPy  \|  SciPy  \|  scikit-learn  \|  pandas  \|  Matplotlib  \|  mlrose  \|  MySQL
+  * **NumPy  \|  SciPy  \|  scikit-learn  \|  pandas  \|  Matplotlib  \|  mlrose  \|  MySQL**
 
 * Deep Learning Frameworks
-  * PyTorch  \|  TensorFlow
+  * **PyTorch  \|  TensorFlow**
 
 
 * Natural Language Processing Tools
-  * RASA  \|  nlpaug  \|  Hugging Face  \|  spaCy  \|  Torchtext
+  * **RASA  \|  nlpaug  \|  Hugging Face  \|  spaCy  \|  Torchtext**
 
 
 * Reinforcement Learning Libraries
-  * OpenAI Gym  \|  MDPtoolbox  \|  Pygame
+  * **OpenAI Gym  \|  MDPtoolbox  \|  Pygame**
 
 
 * Bioinformatics
-  * Biopython  \|  mothur
+  * **Biopython  \|  mothur**
 
 
 Projects and Related Work
