@@ -17,7 +17,7 @@ Education
 <img src="/images/usc_logo.png" alt="USC" width="200px">
 **Ph.D in Engineering-Biology, University of Southern California, 2016-2020**
 <img src="/images/sharif_logo.png" alt="SUT" height="100" width="100">
-**M.S. in Enineering, Sharif University of Technology, 2012-2015**            |
+**M.S. in Enineering, Sharif University of Technology, 2012-2015**
 
   
 
