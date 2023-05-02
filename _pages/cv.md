@@ -21,7 +21,7 @@ Education
 
 
 * <img src="/images/sharif_logo.png" alt="SUT" height="100" width="100">
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **M.S. in Enineering, Sharif University of Technology, 2012-2015**
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **M.S. in Enineering, Sharif University of Technology, 2012-2015**
 
 __________
 
