@@ -13,13 +13,21 @@ Education
 ======
 
 <img src="/images/GT_logo.png" alt="USC" width="200px"> 
+</br>
 M.S. in Computer Science, Georgia Institute of Technology, 2022-Present
 
+</br>
+</br>
 
 <img src="/images/usc_logo.png" alt="USC" width="200px"> 
+</br>
 Ph.D in Engineering-Biology, University of Southern California, 2016-2020
 
+</br>
+</br>
+
 <img src="/images/sharif_logo.png" alt="SUT" height="120" width="120"> 
+</br>
 M.S. in Enineering, Sharif University of Technology, 2012-2015
   
 
