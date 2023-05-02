@@ -13,7 +13,7 @@ Education
 ======
 
 
-![GT_logo.png](relative%20images/GT_logo.png)
+- <img src="/images/sharif_logo.png" alt="SUT"> 
 ## M.S. in Computer Science, Georgia Institute of Technology, 2022-Present
 
 
