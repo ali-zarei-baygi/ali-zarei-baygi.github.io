@@ -54,7 +54,8 @@ Projects and Related Work
 ======
 
 * Artificial Intelligent-based Stock Trader
-*Georgia Institute of Technology, Atlanta, GA                       Feb 2023 – May 2023*
+
+ *Georgia Institute of Technology, Atlanta, GA                       Feb 2023 – May 2023*
 
 * Summer 2015: Research Assistant
   * Github University
