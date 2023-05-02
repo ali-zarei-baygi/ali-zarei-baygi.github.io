@@ -12,16 +12,10 @@ redirect_from:
 Education
 ======
 
-| <img src="/images/GT_logo.png" alt="USC" width="200px"> | **M.S. in Computer Science, Georgia Institute of Technology, 2022-Present** |
-|                                                         |                                                                             |
+| <img src="/images/GT_logo.png" alt="USC" width="200px">                | **M.S. in Computer Science, Georgia Institute of Technology, 2022-Present**   |
+| <img src="/images/usc_logo.png" alt="USC" width="200px">               | **Ph.D in Engineering-Biology, University of Southern California, 2016-2020** |
+| <img src="/images/sharif_logo.png" alt="SUT" height="100" width="100"> | **M.S. in Enineering, Sharif University of Technology, 2012-2015**            |
 
-- <img src="/images/usc_logo.png" alt="USC" width="200px"> 
-**Ph.D in Engineering-Biology, University of Southern California, 2016-2020**
-
-
-
-- <img src="/images/sharif_logo.png" alt="SUT" height="100" width="100"> 
-**M.S. in Enineering, Sharif University of Technology, 2012-2015**
   
 
 Technical Skills
@@ -51,8 +45,7 @@ Technical Skills
 
 Projects and Related Work
 ======
-|                                                               |                                                                       |
-| ------------------------------------------------------------- | --------------------------------------------------------------------- |
+
 | **Artificial Intelligent-based Stock Trader**                 | *Georgia Institute of Technology, Atlanta, GA -- Feb 2023 – May 2023* |
 | **Agile, Test-Driven Development of a Text Editing Java App** | *Georgia Institute of Technology, Atlanta, GA -- Mar 2023 – May 2023* |
 
