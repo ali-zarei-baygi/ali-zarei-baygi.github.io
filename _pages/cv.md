@@ -53,9 +53,9 @@ Technical Skills
 Projects and Related Work
 ======
 
-* Artificial Intelligent-based Stock Trader [*Georgia Institute of Technology, Atlanta, GA                       Feb 2023 – May 2023*]
+* Artificial Intelligent-based Stock Trader [*Georgia Institute of Technology, Atlanta, GA -- Feb 2023 – May 2023*]
 
-Agile, Test-Driven Development of a Text Editing Java App [*Georgia Institute of Technology, Atlanta, GA    Mar 2023 – May 2023*] 
+* Agile, Test-Driven Development of a Text Editing Java App [*Georgia Institute of Technology, Atlanta, GA -- Mar 2023 – May 2023*] 
 
   
 Skills
