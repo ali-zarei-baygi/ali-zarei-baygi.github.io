@@ -21,12 +21,41 @@ Education
 
 
 
-- <img src="/images/sharif_logo.png" alt="SUT" height="120" width="120"> 
+- <img src="/images/sharif_logo.png" alt="SUT" height="100" width="100"> 
 **M.S. in Enineering, Sharif University of Technology, 2012-2015**
   
 
-Work experience
+Technical Skills
 ======
+* Programming Languages
+  * Python  \|  Java  \|  C#
+
+
+* Data Analytics & ML Libraries
+  * NumPy  \|  SciPy  \|  scikit-learn  \|  pandas  \|  Matplotlib  \|  mlrose  \|  MySQL
+
+* Deep Learning Frameworks
+  * PyTorch  \|  TensorFlow
+
+
+* Natural Language Processing Tools
+  * RASA  \|  nlpaug  \|  Hugging Face  \|  spaCy  \|  Torchtext
+
+
+* Reinforcement Learning Libraries
+  * OpenAI Gym  \|  MDPtoolbox  \|  Pygame
+
+
+* Bioinformatics
+  * Biopython  \|  mothur
+
+
+Projects and Related Work
+======
+
+* Artificial Intelligent-based Stock Trader
+*Georgia Institute of Technology, Atlanta, GA                       Feb 2023 – May 2023*
+
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
