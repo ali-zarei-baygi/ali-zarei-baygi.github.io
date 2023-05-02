@@ -23,7 +23,7 @@ Education
 * <img src="/images/sharif_logo.png" alt="SUT" height="100" width="100">
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **M.S. in Enineering, Sharif University of Technology, 2012-2015**
 
-  
+__________
 
 Technical Skills
 ======
@@ -49,6 +49,7 @@ Technical Skills
 * Bioinformatics
   * **Biopython  \|  mothur**
 
+_______________
 
 Projects and Related Work
 ======
@@ -82,8 +83,7 @@ Projects and Related Work
 * **Data Management of Electronic Products Sale** 
   * *University of Southern California, Los Angeles, CA -- Oct 2016 – Dec 2016*
 
-
-
+_____________-
 
 
 
