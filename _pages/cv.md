@@ -13,7 +13,7 @@ Education
 ======
 
 
-![GT_logo.png](..%2FImages%2FGT_logo.png)
+![GT_logo.png](relative%20images/GT_logo.png)
 ## M.S. in Computer Science, Georgia Institute of Technology, 2022-Present
 
 
