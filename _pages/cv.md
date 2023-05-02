@@ -12,8 +12,7 @@ redirect_from:
 Education
 ======
 
-- <img src="/images/GT_logo.png" alt="USC" width="200px"> 
-**M.S. in Computer Science, Georgia Institute of Technology, 2022-Present**
+| <img src="/images/GT_logo.png" alt="USC" width="200px"> | **M.S. in Computer Science, Georgia Institute of Technology, 2022-Present** |
 
 
 - <img src="/images/usc_logo.png" alt="USC" width="200px"> 
