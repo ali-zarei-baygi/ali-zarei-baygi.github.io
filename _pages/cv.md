@@ -12,16 +12,15 @@ redirect_from:
 Education
 ======
 
- <img src="/images/GT_logo.png" alt="Georgia Tech" width="200px">  
-  * M.S. in Computer Science, Georgia Institute of Technology, 2022-Present
+<img src="/images/GT_logo.png" alt="Georgia Tech" width="200px">  
+## * M.S. in Computer Science, Georgia Institute of Technology, 2022-Present
+
+<img src="/images/usc_logo.png" alt="USC" width="200px">  
+## * Ph.D in Engineering-Biology, University of Southern California, 2016-2020
 
 
- <img src="/images/usc_logo.png" alt="USC" width="200px">  
-  * Ph.D in Engineering-Biology, University of Southern California, 2016-2020
-
-
- <img src="/images/sharif_logo.png" alt="SUT" height="120" width="120">  
-  * M.S. in Enineering, Sharif University of Technology, 2012-2015  -->
+<img src="/images/sharif_logo.png" alt="SUT" height="120" width="120">  
+## * M.S. in Enineering, Sharif University of Technology, 2012-2015
   
 
 Work experience
