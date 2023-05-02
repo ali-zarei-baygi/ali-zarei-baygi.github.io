@@ -53,8 +53,8 @@ Technical Skills
 Projects and Related Work
 ======
 
-* Artificial Intelligent-based Stock Trader [*Georgia Institute of Technology, Atlanta, GA -- Feb 2023 – May 2023*]
-* Agile, Test-Driven Development of a Text Editing Java App [*Georgia Institute of Technology, Atlanta, GA -- Mar 2023 – May 2023*] 
+* Artificial Intelligent-based Stock Trader_ [*Georgia Institute of Technology, Atlanta, GA -- Feb 2023 – May 2023*]
+* Agile, Test-Driven Development of a Text Editing Java App_ [*Georgia Institute of Technology, Atlanta, GA -- Mar 2023 – May 2023*] 
 * Job Offer Comparison Android App (a team project)[*Georgia Institute of Technology, Atlanta, GA -- Feb 2023 – Apr 2023*]
 * Pseudo Labeling for improving Intent Classification in a Booking ChatBot (a team project) [*Georgia Institute of Technology, Atlanta, GA -- Oct 2022 – Dec 2022*]
 * Machine Translation using Seq2Seq, and Transformer models for Multi30K dataset (English-German Image Description) [*Georgia Institute of Technology, Atlanta, GA -- Sep 2022 – Nov 2022*]
