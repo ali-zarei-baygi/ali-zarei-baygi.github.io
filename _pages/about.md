@@ -12,7 +12,7 @@ redirect_from:
 
 _____
 
-# About me!
+# About me
 
 I am a computer scientist with **Machine Learning** specialization at *Georgia Institute of Technology*. I am passionate about **Deep Learning, Vision, Natural Language Processing, and Data Analysis**. Through working on a variety of projects across the areas of Deep Learning, I have been able to elevate my skills in data preprocessing, programming, algorithm design, and model selection. 
 
