@@ -84,7 +84,7 @@ Projects and Related Work
 * **Data Management of Electronic Products Sale** 
   * *University of Southern California, Los Angeles, CA -- Oct 2016 – Dec 2016*
 
-_____________-
+_____________
 
 
 
