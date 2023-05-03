@@ -3,9 +3,10 @@ title: "Artificial Intelligent-based Stock Trader 1"
 excerpt: '<img src="/images/stock_trader.png" alt="NER" height="300"  width="300">'
 collection: portfolio
 ---
-_________
 
-'<img src="/images/stock_trader.png">'
+____________
+
+<img src="/images/stock_trader.png">
 
 
 * Developed artificial intelligent (AI) agents (using random forest, and Q-learning) for trading stocks (time series data) [Python]
