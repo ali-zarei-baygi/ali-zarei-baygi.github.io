@@ -1,12 +1,12 @@
 ---
 title: "Job Offer Comparison Android App (a team project)"
-excerpt: '<img src="/images/android.png" alt="NER" height="400"  width="200">'
+excerpt: '<img src="/images/android.png" alt="NER" height="300"  width="150">'
 collection: portfolio
 ---
 
 ____________
 
-<img src="/images/android.png">
+<img src="/images/android.png" height="400"  width="200">
 
 
 
