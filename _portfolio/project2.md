@@ -1,12 +1,12 @@
 ---
 title: "Agile, Test-Driven Development of a Text Editing Java App"
-excerpt: '<img src="/images/stock_trader.png" alt="NER" height="300"  width="300">'
+excerpt: '<img src="/images/tslgenerator.png" alt="NER" height="300"  width="300">'
 collection: portfolio
 ---
 
 ____________
 
-<img src="/images/stock_trader.png">
+<img src="/images/tslgenerator.png">
 
 
 * Created test-case specifications using category-partition methods, and generated test frames using the TSLgenerator tool
