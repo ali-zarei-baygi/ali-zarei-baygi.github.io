@@ -4,7 +4,7 @@ excerpt: "Hello <br/><img src='/images/stock_trader.png' height="300"  width="30
 collection: portfolio
 ---
 
-<img src='/images/stock_trader.png' height="300"  width="300">
+<img src='/images/stock_trader.png' alt="NER" height="300"  width="300">
 
 * Developed artificial intelligent (AI) agents (using random forest, and Q-learning) for trading stocks (time series data) [Python]
 
