@@ -1,10 +1,16 @@
 ---
 title: "Artificial Intelligent-based Stock Trader"
-excerpt: "Hello <br/><img src='/images/stock_trader.png'>"
+excerpt: "Hello <br/><img src='/images/stock_trader.png' height="300"  width="300">"
 collection: portfolio
 ---
 
-o	Developed artificial intelligent (AI) agents (using random forest, and Q-learning) for trading stocks (time series data) [Python]
-o	Evaluated several trading technical indicators (such as SMA, EMA, and RSI) as the input features/states for training the AI agents
-o	Improved performance of the AI agents on creating buy/sell stock signals using roll forward cross-validation
+<img src='/images/stock_trader.png' height="300"  width="300">
+
+* Developed artificial intelligent (AI) agents (using random forest, and Q-learning) for trading stocks (time series data) [Python]
+
+
+* Evaluated several trading technical indicators (such as SMA, EMA, and RSI) as the input features/states for training the AI agents
+
+
+* Improved performance of the AI agents on creating buy/sell stock signals using roll forward cross-validation
 
