@@ -1,6 +1,6 @@
 ---
 title: "Artificial Intelligent-based Stock Trader"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/stock_trader.png'>"
+excerpt: "Hello <br/><img src='/images/stock_trader.png'>"
 collection: portfolio
 ---
 
