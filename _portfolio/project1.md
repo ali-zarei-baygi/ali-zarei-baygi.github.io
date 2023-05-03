@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligent-based Stock Trader 1"
+title: "Artificial Intelligent-based Stock Trader"
 excerpt: '<img src="/images/stock_trader.png" alt="NER" height="300"  width="300">'
 collection: portfolio
 ---
