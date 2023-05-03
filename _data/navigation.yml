@@ -5,10 +5,12 @@ main:
     url: /cv/
     
   - title: "Projects"
+    url: /talks/ 
+    
+  - title: "Courses"
     url: /poblications/
 
-  - title: "Courses"
-    url: /talks/    
+   
 
 #   - title: "Teaching"
 #     url: /teaching/    
